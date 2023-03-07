@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=everpaula&show_icons=true&theme=radical)
 
-## Stack
+## Stack and Skills
 
 <div style="display: inline_block">
 
