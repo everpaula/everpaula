@@ -9,7 +9,7 @@
 ### [Marketplace Ops Toolkit →](https://github.com/everpaula/marketplace-ops-toolkit)
 **[everpaula.github.io/marketplace-ops-toolkit](https://everpaula.github.io/marketplace-ops-toolkit/)** · Open source · MIT
 
-Six interactive tools for operations leaders running review queues, surge pricing, dispute investigation, workforce planning, and logistics forecasting. Built because most ops decisions still happen with intuition where the math would settle it.
+Seven interactive tools for operations leaders running review queues, surge pricing, dispute investigation, workforce planning, logistics forecasting, and queue operations command. Built because most ops decisions still happen with intuition where the math would settle it.
 
 | Tool | What it solves |
 |---|---|
@@ -19,6 +19,7 @@ Six interactive tools for operations leaders running review queues, surge pricin
 | ⚖️ [Chargeback Dispute Investigation Wizard](https://everpaula.github.io/marketplace-ops-toolkit/chargeback-sop.html) | Walk through a dispute like a senior fraud analyst. 4-6 questions to disposition. |
 | 📊 [Workforce Forecast Calculator](https://everpaula.github.io/marketplace-ops-toolkit/workforce-forecast.html) | Quarterly capacity planning made explicit — volume × complexity × shrinkage × peak. |
 | 🚚 [Logistics Supply Forecaster (V2)](https://everpaula.github.io/marketplace-ops-toolkit/logistics-supply.html) | Translate marketplace forecasts into required couriers, pickers, sortation, and dock capacity. V2 adds day-over-day backlog cascade, two-layer capacity, occupation tracking, and operational levers. |
+| 🎯 [Queue Operations Command Center](https://everpaula.github.io/marketplace-ops-toolkit/queue-ops-center.html) | Backlog health (SLA breach countdown, agents needed to recover) integrated with case-level prioritization (risk × age × value). 4 persona presets, 3 reprioritize modes, native modal with substituted formula. |
 
 ![Marketplace Ops Toolkit preview](https://github.com/everpaula/marketplace-ops-toolkit/raw/main/images/surge-polygon-map.png)
 
