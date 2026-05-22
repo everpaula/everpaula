@@ -9,7 +9,7 @@
 ### [Marketplace Ops Toolkit →](https://github.com/everpaula/marketplace-ops-toolkit)
 **[everpaula.github.io/marketplace-ops-toolkit](https://everpaula.github.io/marketplace-ops-toolkit/)** · Open source · MIT
 
-Seven interactive tools for operations leaders running review queues, surge pricing, dispute investigation, workforce planning, logistics forecasting, and queue operations command. Built because most ops decisions still happen with intuition where the math would settle it.
+Nine interactive tools for operations leaders running review queues, surge pricing, dispute investigation, workforce planning, logistics forecasting, queue operations command, vendor scorecards, and driver performance ranking. Built because most ops decisions still happen with intuition where the math would settle it.
 
 | Tool | What it solves |
 |---|---|
@@ -17,9 +17,11 @@ Seven interactive tools for operations leaders running review queues, surge pric
 | 🛡 [BIN Monitoring Detection](https://everpaula.github.io/marketplace-ops-toolkit/bin-monitor.html) | Catch BIN-level fraud attacks 30-90 days before chargebacks land. |
 | 🗺 [Marketplace Surge Simulator (V2)](https://everpaula.github.io/marketplace-ops-toolkit/surge-pid.html) | PID-controlled surge pricing with polygon-level optimization (per-zone, not city average). |
 | ⚖️ [Chargeback Dispute Investigation Wizard](https://everpaula.github.io/marketplace-ops-toolkit/chargeback-sop.html) | Walk through a dispute like a senior fraud analyst. 4-6 questions to disposition. |
-| 📊 [Workforce Forecast Calculator](https://everpaula.github.io/marketplace-ops-toolkit/workforce-forecast.html) | Quarterly capacity planning made explicit — volume × complexity × shrinkage × peak. |
+| 📊 [Workforce Forecast Calculator](https://everpaula.github.io/marketplace-ops-toolkit/workforce-forecast.html) | Quarterly capacity planning made explicit. Volume × complexity × shrinkage × peak. |
 | 🚚 [Logistics Supply Forecaster (V2)](https://everpaula.github.io/marketplace-ops-toolkit/logistics-supply.html) | Translate marketplace forecasts into required couriers, pickers, sortation, and dock capacity. V2 adds day-over-day backlog cascade, two-layer capacity, occupation tracking, and operational levers. |
 | 🎯 [Queue Operations Command Center](https://everpaula.github.io/marketplace-ops-toolkit/queue-ops-center.html) | Backlog health (SLA breach countdown, agents needed to recover) integrated with case-level prioritization (risk × age × value). 4 persona presets, 3 reprioritize modes, native modal with substituted formula. |
+| 📋 [Vendor Performance Scorecard](https://everpaula.github.io/marketplace-ops-toolkit/vendor-scorecard.html) | Rank vendors against weighted multi-dimensional scorecards (on-time, defect, cost, lead time, response). A/B/C tier classification, sensitivity analysis on weights, action recommendations, money-on-the-table math. 4 presets including kit sourcing (overseas mfg), 3PL last-mile, BPO offshore. |
+| 🏍 [Driver / Courier Performance Scorecard](https://everpaula.github.io/marketplace-ops-toolkit/driver-scorecard.html) | Rank drivers on weighted performance with tenure-based bias correction so new drivers aren't unfairly penalized by thin data. Four-tier classification (Top / Reliable / Watch / At-Risk), best-gets-first-call simulation, turnover risk surfacing. 4 presets for instant delivery, gig courier, ride-hail, 3PL last-mile. |
 
 ![Marketplace Ops Toolkit preview](https://github.com/everpaula/marketplace-ops-toolkit/raw/main/images/surge-polygon-map.png)
 
